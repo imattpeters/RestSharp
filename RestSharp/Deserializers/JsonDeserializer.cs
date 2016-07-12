@@ -1,4 +1,6 @@
-﻿using System;
+//using MonoTouch.Dialog;
+//using MonoTouch.Dialog;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;

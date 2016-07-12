@@ -1,4 +1,4 @@
-﻿#region License
+#region License
 //   Copyright 2010 John Sheehan
 //
 //   Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,6 +13,8 @@
 //   See the License for the specific language governing permissions and
 //   limitations under the License. 
 #endregion
+
+
 
 using System;
 using System.Collections.Generic;
